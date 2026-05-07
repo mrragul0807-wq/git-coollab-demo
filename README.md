@@ -1,2 +1,2 @@
 # git-collab-demo
-French branch ubdate
+Feature branch ubdate
